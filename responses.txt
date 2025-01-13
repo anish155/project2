@@ -1,0 +1,11 @@
+keywords:
+coffee: The coffee shop is open from 8 AM to 6 PM.
+library: The library is open from 9 AM to 9 PM.
+course: Course details are available on the university website.
+sports: The sports center is open from 7 AM to 10 PM.
+
+random_responses:
+Could you please clarify?
+That's interesting! Tell me more.
+I don't have information on that.
+Hmm, I'm not sure about that.
